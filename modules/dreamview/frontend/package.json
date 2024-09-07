@@ -16,7 +16,7 @@
         "start_offline": "./setup.sh; node_modules/.bin/webpack-dev-server --watch-poll --config webpack.offline.config.js"
     },
     "dependencies": {
-        "chart.js": "^2.7.0",
+        "chart.js": "^3.0.0",
         "chncrs": "^0.1.6",
         "classnames": "^2.2.5",
         "compute-polynomial": "^1.1.0",
@@ -35,7 +35,7 @@
         "react-tooltip": "^3.8.1",
         "recorder-js": "^1.0.7",
         "stats.js": "^0.17.0",
-        "styled-components": "^4.1.3",
+        "styled-components": "^6.0.0",
         "three": "~0.84.0",
         "three-line-2d": "^1.1.6"
     },
